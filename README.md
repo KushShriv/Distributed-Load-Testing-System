@@ -11,7 +11,7 @@
 - :crown: Streamlit
 - :panda_face: Pandas
 
-> Go would be the ideal choice for implementation, which was informed to us beforehand, but python was used as the team was familiar with it and GoLand we'd have to learn from scratch and then implement this, which wouldn't be possible in the 4 hours we thought we had anyway.
+> Go would be the ideal choice for implementation, which was informed to us beforehand, but python was used as the team was familiar with it and we'd have to learn Go from scratch and then implement this, which wouldn't be possible in the 4 hours we thought we had anyway.
 
 > Messages are passed around withing the file system as .json files for convinience.
 
