@@ -1,6 +1,6 @@
 # Plan: usable load testing from GitHub Pages
 
-Status: local preview and experimental remote drivers (mutual TLS, tested on loopback only) implemented; browser matrix, fresh-machine acceptance, multi-machine driver tests and Pages publication remain open. Native macOS and Linux are the supported host targets.
+Status: local preview and experimental remote drivers (mutual TLS, loopback tests only) implemented. The instruction page was published to GitHub Pages on 12 November 2026. Open: browser matrix (Pages-to-loopback was blocked in the built-in browser; localhost fallback works there), fresh-machine acceptance and multi-machine driver tests. Native macOS and Linux are the supported host targets.
 
 ## Outcome and boundaries
 
